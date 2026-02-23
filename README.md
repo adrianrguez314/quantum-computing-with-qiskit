@@ -25,6 +25,7 @@ The following table details the algorithms currently available in the repository
 | `01_Bernstein_Vazirani.ipynb` | **Bernstein-Vazirani** | Determination of a hidden bitstring in a single query. Includes full theoretical derivation. |
 | `02_Deutsch_Jozsa.ipynb` | **Deutsch-Jozsa** | Evaluation of function properties (constant vs. balanced). Features updated technical explanations. |
 | `03_quantum_teleportation.ipynb` | **Quantum Teleportation** | Implementation of the protocol for state transfer via entanglement and classical communication. |
+| `04_Shors_algorithms.ipynb` | Shor’s Algorithm | Determination of the factorization of N. In this case, N = 15. |
 
 ---
 
@@ -49,6 +50,7 @@ The theoretical and technical development of these notebooks is supported by the
 
 ### Institutional and Course Materials
 * **University of La Laguna (ULL)**: Lecture notes and official documentation from the *Microcredencial en Introducción a la Computación Cuántica* (1st Edition, 2026).
+* **University of La Laguna (ULL)**: Lecture notes and official documentation from the *Microcredencial en Criptografía e Información Cuántica* (3th Edition, 2026).
 * **IBM Quantum Learning**: Official Qiskit documentation and IBM introductory quantum computing courses.
 
 ### Academic Textbooks
